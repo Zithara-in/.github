@@ -45,7 +45,7 @@ Zithara.AI offers robust integration capabilities:
 Interested in transforming your retail business with Zithara.AI?
 
 - **Website**: [https://zithara.ai](https://zithara.ai)
-- **Email**: [info@zithara.ai](mailto:info@zithara.in)
+- **Email**: [info@zithara.in](mailto:info@zithara.in)
 - **Phone**: +91-6303302433
 
 Empower your retail business with Zithara.AI – where technology meets customer satisfaction.
